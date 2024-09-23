@@ -13,7 +13,8 @@ On Linux: get it from your package manager
 
 On Windows: `¯\_(ツ)_/¯`
 
-Once you have ensured that `pipenv` worked, move to the section below.
+Once you have ensured that `pipenv` worked, install all dependencies
+with `pipenv install`, then move to the section below.
 
 ## What commands starts the server?
 
